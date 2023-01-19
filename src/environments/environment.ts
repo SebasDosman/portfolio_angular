@@ -12,7 +12,7 @@ export const environment = {
     nombre      : 'Login Angular Material',
     imagen      : 'login-angular-material.png',
     description : 'Application with login. Developed in Angular with Angular Material',
-    urlInternet : 'https://spectacular-macaron-239c41.netlify.app/'
+    urlInternet : 'https://beamish-pithivier-987580.netlify.app/'
   },
   {
     nombre      : 'User Login',
