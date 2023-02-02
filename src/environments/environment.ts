@@ -21,9 +21,15 @@ export const environment = {
     urlInternet : 'https://poetic-sorbet-e82274.netlify.app'
   },
   {
+    nombre      : 'Art Anime',
+    imagen      : 'art-anime.png',
+    description : 'E-commerce of anime figures. Developed in Angular with Angular and MongoDB for data management with NodeJs. I worked on the redesign of the front end',
+    urlInternet : 'https://artanime.netlify.app/#/home/main'
+  },
+  {
     nombre      : 'Thats Study',
     imagen      : 'thats-study-java.png',
-    description : 'Desk application for the management of students and teachers, developed in Java with the Swing library. It has a database in MySQL and a connection with the database is made through JDBC.',
+    description : 'Desk application for the management of students and teachers. Developed together with Mariana Cruz ( https://github.com/MariCruz27 ) in Java with the Swing library. It has a database in MySQL and a connection with the database is made through JDBC.',
     urlInternet : 'https://github.com/SebasDosman/thats_study'
   },
   {
